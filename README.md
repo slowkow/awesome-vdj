@@ -31,6 +31,14 @@ Here, researchers can find links to tools and resources for computational analys
 
 ## VDJ Databases
 
+### A Public Database of Memory and Naive B-Cell Receptor Sequences
+
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2
+
+> We present a public database of more than 37 million unique BCR sequences from three healthy adult donors that is many fold deeper than any existing resource, together with a set of online tools designed to facilitate the visualization and analysis of the annotated data.
+
+DeWitt, W. S. et al. [A Public Database of Memory and Naive B-Cell Receptor Sequences.](https://pubmed.ncbi.nlm.nih.gov/27513338/) PLoS One 11, e0160853 (2016)
+
 ### Human Vaccines Project (Human Immunome Program)
 
 https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP174305
