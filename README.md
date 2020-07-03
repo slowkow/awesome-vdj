@@ -133,19 +133,23 @@ https://github.com/mikessh/migmap
 
 ### MiXCR: a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data
 
-> MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, corrects PCR errors and identifies germline hypermutations. The software supports both partial- and full-length profiling and employs all available RNA or DNA information, including sequences upstream of V and downstream of J gene segments.
+Java tools
 
 https://github.com/milaboratory/mixcr
 
+> MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, corrects PCR errors and identifies germline hypermutations. The software supports both partial- and full-length profiling and employs all available RNA or DNA information, including sequences upstream of V and downstream of J gene segments.
+
 ### PRESTO: The REpertoire Sequencing TOolkit
+
+Python package
 
 https://presto.readthedocs.io/en/stable
 
 https://bitbucket.org/kleinstein/presto
 
 > pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires.
-
-> Dramatic improvements in high-throughput sequencing technologies now enable large-scale characterization of lymphocyte repertoires, defined as the collection of trans-membrane antigen-receptor proteins located on the surface of B cells and T cells. The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to handle all stages of sequence processing prior to germline segment assignment. pRESTO is designed to handle either single reads or paired-end reads. It includes features for quality control, primer masking, annotation of reads with sequence embedded barcodes, generation of unique molecular identifier (UMI) consensus sequences, assembly of paired-end reads and identification of duplicate sequences. Numerous options for sequence sorting, sampling and conversion operations are also included.
+> 
+> The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to handle all stages of sequence processing prior to germline segment assignment. pRESTO is designed to handle either single reads or paired-end reads. It includes features for quality control, primer masking, annotation of reads with sequence embedded barcodes, generation of unique molecular identifier (UMI) consensus sequences, assembly of paired-end reads and identification of duplicate sequences. Numerous options for sequence sorting, sampling and conversion operations are also included.
 
 ### pyIR: An IgBLAST wrapper and parser
 
