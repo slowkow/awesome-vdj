@@ -135,6 +135,8 @@ https://github.com/GreiffLab/immuneSIM
 > of all relevant repertoire dimensions and can be analyzed using provided repertoire analysis
 > functions. Preprint is available at bioRxiv (Weber et al., 2019 <doi:10.1101/759795>).
 
+Weber, C. R. et al. [immuneSIM: tunable multi-feature simulation of B- and T-cell receptor repertoires for immunoinformatics benchmarking.](https://pubmed.ncbi.nlm.nih.gov/32154832/) Bioinformatics 36, 3594–3596 (2020)
+
 ### MiGMAP: mapper for full-length T- and B-cell repertoire sequencing
 
 Groovy and Java tools
