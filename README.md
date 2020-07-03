@@ -197,6 +197,14 @@ https://github.com/RabadanLab/arcasHLA
 
 > arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.
 
+### HLA-LA: Fast HLA type inference from whole-genome data
+
+C++ and Perl
+
+https://github.com/DiltheyLab/HLA-LA
+
+> HLA*LA carries out HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.
+
 ### HLAProfiler: Using k-mers to call HLA alleles in RNA sequencing data
 
 Perl scripts
