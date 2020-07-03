@@ -151,6 +151,8 @@ https://bitbucket.org/kleinstein/presto
 > 
 > The REpertoire Sequencing TOolkit (pRESTO) is composed of a suite of utilities to handle all stages of sequence processing prior to germline segment assignment. pRESTO is designed to handle either single reads or paired-end reads. It includes features for quality control, primer masking, annotation of reads with sequence embedded barcodes, generation of unique molecular identifier (UMI) consensus sequences, assembly of paired-end reads and identification of duplicate sequences. Numerous options for sequence sorting, sampling and conversion operations are also included.
 
+Heiden, J. A. V. et al. [pRESTO: a toolkit for processing high-throughput sequencing raw reads of lymphocyte receptor repertoires.](https://pubmed.ncbi.nlm.nih.gov/24618469/) Bioinformatics 30, 1930–1932 (2014)
+
 ### pyIR: An IgBLAST wrapper and parser
 
 Python package
