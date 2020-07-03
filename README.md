@@ -238,3 +238,4 @@ C shell script
 http://software.broadinstitute.org/mpg/snp2hla/
 
 >SNP2HLA is a tool to impute amino acid polymorphisms and single nucleotide polymorphisms in human luekocyte antigenes (HLA) within the major histocompatibility complex (MHC) region in chromosome 6.
+
