@@ -147,6 +147,16 @@ https://github.com/crowelab/PyIR
 
 > PyIR is a minimally-dependent high-speed wrapper for the IgBLAST immunoglobulin and T-cell analyzer. This is achieved through chunking the input data set and running IgBLAST single-core in parallel to better utilize modern multi-core and hyperthreaded processors.
 
+### Recon: Reconstruction of Estimated Communities from Observed Numbers
+
+Python scripts
+
+https://github.com/ArnaoutLab/Recon
+
+> Recon uses the distribution of species counts in a sample to estimate the distribution of species counts in the population from which the sample was drawn.
+
+Kaplinsky, J. & Arnaout, R. [Robust estimates of overall immune-repertoire diversity from high-throughput measurements on samples.](https://pubmed.ncbi.nlm.nih.gov/27302887/) Nat. Commun. 7, 11881 (2016)
+
 ### scirpy: A scanpy extension to analyse single-cell TCR data.
 
 Python package
