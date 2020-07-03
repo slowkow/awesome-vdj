@@ -55,7 +55,7 @@ https://clients.adaptivebiotech.com/immuneaccess
 
 > Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Construct your own projects, draw your own conclusions, and freely publish new discoveries.
 
-Downloading data from immuneACCESS can be confusing, see [these instructions](https://imgur.com/a/ziYSeQ4) for examples.
+See [these instructions](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) for tips on how to download data from immuneACCESS.
 
 ### McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences
 
