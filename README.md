@@ -109,6 +109,14 @@ https://github.com/jostmey/dkm
 
 > DKM is analogous to a convolutional network, but for sequences. Consider the problem of classifying a sequence. Because some sequences are longer than others, the number of features is irregular. Given a specific sequence, the challenge is to determine the appropriate permutation of features with weights, allowing us to run the features through the statistical classifier to generate a prediction. To find the permutation of features that exhibit the maximal response, like how max-pooling identifies the image patch that exhibit the maximal response, we use a sequence alignment algorithm.
 
+### enclone
+
+Standalone binary, Linux
+
+https://10xgenomics.github.io/enclone/; https://github.com/10XGenomics/enclone
+
+> enclone is standalone software (primarily written in Rust) developed by 10x Genomics for analysis of single cell TCR and BCR sequences. enclone performs SHM-aware clonotyping, phylogenetic/lineage analysis, multiple sequence alignment, and provides an extremely fast interface to analyze, display, and export VDJ, gene expression, and feature barcoding (REAP-seq, CITE-seq, ECCITE-seq, LIBRA-seq, PERTURB-seq, _etc._) data.
+
 ### immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data
 
 R package
