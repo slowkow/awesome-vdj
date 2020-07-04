@@ -193,6 +193,14 @@ https://github.com/icbi-lab/scirpy
 
 > Scirpy is a scalable python-toolkit to analyse T cell receptor (TCR) repertoires from single-cell RNA sequencing (scRNA-seq) data. It seamlessly integrates with the popular scanpy library and provides various modules for data import, analysis and visualization.
 
+### scRepertoire: A toolkit for single-cell immune profiling
+
+R package
+
+https://github.com/ncborcherding/scRepertoire
+
+> scRepertoire v1.0.0 added the functionality of the powerTCR approach to comparing clone size distribution, please cite the manuscript if using the clonesizeDistribution() function. Similiarly, the application of novel indices for single-cell clonotype dynamics in the StartracDiversity() function is based on the work from Lei Zhang et al.
+
 ### tcr-dist
 
 Python scripts
