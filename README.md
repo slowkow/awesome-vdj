@@ -113,7 +113,9 @@ https://github.com/jostmey/dkm
 
 Standalone binary, Linux
 
-https://10xgenomics.github.io/enclone/; https://github.com/10XGenomics/enclone
+https://10xgenomics.github.io/enclone/
+
+https://github.com/10XGenomics/enclone
 
 > enclone is standalone software (primarily written in Rust) developed by 10x Genomics for analysis of single cell TCR and BCR sequences. enclone performs SHM-aware clonotyping, phylogenetic/lineage analysis, multiple sequence alignment, and provides an extremely fast interface to analyze, display, and export VDJ, gene expression, and feature barcoding (REAP-seq, CITE-seq, ECCITE-seq, LIBRA-seq, PERTURB-seq, _etc._) data.
 
