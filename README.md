@@ -147,6 +147,16 @@ https://github.com/GreiffLab/immuneSIM
 
 Weber, C. R. et al. [immuneSIM: tunable multi-feature simulation of B- and T-cell receptor repertoires for immunoinformatics benchmarking.](https://pubmed.ncbi.nlm.nih.gov/32154832/) Bioinformatics 36, 3594–3596 (2020)
 
+### ImReP: Rapid and accurate profiling of the adaptive immune repertoires from regular RNA-Seq data
+
+Python scripts
+
+https://github.com/Mangul-Lab-USC/imrep
+
+> ImReP is a method to quantify individual immune response based on a recombination landscape of genes encoding B and T cell receptors (BCR and TCR). ImReP is able to efficiently extract TCR and BCR reads from the RNA-Seq data and assemble clonotypes (defined as clones with identical CDR3 amino acid sequences) and detect corresponding V(D)J recombinations. Using CAST clustering technique, ImReP is able to correct assembled clonotypes for PCR and sequencing errors.
+
+Mandric, I., Rotman, J., Yang, H.T. et al. [Profiling immunoglobulin repertoires across multiple human tissues using RNA sequencing.](https://doi.org/10.1038/s41467-020-16857-7) Nat Commun 11, 3126 (2020).
+
 ### MiGMAP: mapper for full-length T- and B-cell repertoire sequencing
 
 Groovy and Java tools
