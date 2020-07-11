@@ -35,6 +35,16 @@ There are no broken links on this page if this badge is green:
 
 ## VDJ Databases
 
+### Adaptive Immune Receptor Repertoire (AIRR) Community
+
+http://airr-community.org
+
+https://docs.airr-community.org/en/stable/index.html
+
+https://github.com/airr-community
+
+> The Adaptive Immune Receptor Repertoire (AIRR) Community of The Antibody Society is a research-driven group that is organizing and coordinating stakeholders in the use of next-generation sequencing technologies to study antibody/B-cell and T-cell receptor repertoires. Recent advances in sequencing technology have made it possible to sample the immune repertoire in exquisite detail. AIRR sequencing (AIRR-seq) has enormous promise for understanding the dynamics of the immune repertoire in vaccinology, infectious diseases, autoimmunity, and cancer biology, but also poses substantial challenges. The AIRR Community was established to meet these challenges.
+
 ### A Public Database of Memory and Naive B-Cell Receptor Sequences
 
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2
