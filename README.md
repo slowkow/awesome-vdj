@@ -53,6 +53,12 @@ https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2
 
 DeWitt, W. S. et al. [A Public Database of Memory and Naive B-Cell Receptor Sequences.](https://pubmed.ncbi.nlm.nih.gov/27513338/) PLoS One 11, e0160853 (2016)
 
+### Coronavirus-Binding Antibody Sequences & Structures
+
+http://opig.stats.ox.ac.uk/webapps/covabdab/
+
+> The Oxford Protein Informatics Group (Dept. of Statistics, University of Oxford) is collaborating in efforts to understand the immune response to SARS-CoV2 infection and vaccination. As part of our investigations, we are releasing and maintaining this public database to document all published/patented binding antibodies and nanobodies to coronaviruses, including SARS-CoV2, SARS-CoV1, and MERS-CoV.
+
 ### Human Vaccines Project (Human Immunome Program)
 
 https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP174305
