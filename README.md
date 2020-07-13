@@ -73,6 +73,12 @@ https://clients.adaptivebiotech.com/immuneaccess
 
 See [these instructions](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) for tips on how to download data from immuneACCESS.
 
+### iReceptor
+
+https://gateway.ireceptor.org/home
+
+> iReceptor facilitates the curation, analysis and sharing of antibody/B-cell and T-cell receptor repertoires (Adaptive Immune Receptor Repertoire or AIRR-seq data) from multiple labs and institutions. We are committed to providing a platform for researchers to increase the value of their data through sharing with the community. This will greatly increase the amount of data available to answer complex questions about the adaptive immune response, accelerating the development of vaccines, therapeutic antibodies against autoimmune diseases, and cancer immunotherapies.
+
 ### McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences
 
 http://friedmanlab.weizmann.ac.il/McPAS-TCR/
