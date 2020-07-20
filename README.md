@@ -301,6 +301,14 @@ https://github.com/DiltheyLab/HLA-LA
 
 > HLA*LA carries out HLA typing based on a population reference graph and employs a new linear projection method to align reads to the graph.
 
+### HLA-TAPAS
+
+Python and R scripts
+
+https://github.com/immunogenomics/HLA-TAPAS
+
+> HLA-TAPAS (HLA-Typing At Protein for Association Studies) is an HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc). It is an updated version of the SNP2HLA. 
+
 ### HLAProfiler: Using k-mers to call HLA alleles in RNA sequencing data
 
 Perl scripts
