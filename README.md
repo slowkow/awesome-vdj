@@ -253,7 +253,7 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
-### vampire
+### vampire: Deep generative models for TCR sequences
 
 Python package
 
