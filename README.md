@@ -253,6 +253,16 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
+### vampire
+
+Python package
+
+https://github.com/matsengrp/vampire/
+
+> Fit and test variational autoencoder (VAE) models for T cell receptor sequences.
+
+Davidsen, K. et al. [Deep generative models for T cell receptor protein sequences.](http://dx.doi.org/10.7554/eLife.46935) Elife 8, e46935 (2019)
+
 ### VDJtools
 
 Groovy and Java tools
