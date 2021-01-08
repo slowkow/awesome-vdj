@@ -87,6 +87,14 @@ http://friedmanlab.weizmann.ac.il/McPAS-TCR/
 
 > McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TCR sequences to their antigen target or to the pathology and organ with which they are associated.
 
+### PIRD: Pan immune repertoire database
+
+https://db.cngb.org/pird/
+
+> Pan immune repertoire database (PIRD) collects raw and processed sequences of immunoglobulins (IGs) and T cell receptors (TCRs) of human and other vertebrate species with different phenotypes. You can check the detailed information of each sample in the database, choose samples to analyze according to your need, and upload data to analyze. Your analysis results will be auto-saved, so you can return to check them at any time. PIRD is developed by the immune and health lab of BGI-research.
+
+Zhang, W. et al. [PIRD: Pan Immune Repertoire Database.](https://doi.org/10.1093/bioinformatics/btz614) Bioinformatics 36, 897–903 (2020)
+
 ### STCRDab: The Structural T-Cell Receptor Database
 
 http://opig.stats.ox.ac.uk/webapps/stcrdab/
