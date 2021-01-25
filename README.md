@@ -125,6 +125,16 @@ https://github.com/antigenomics/vdjdb-db
 
 ## VDJ Analysis
 
+### ALICE: Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences
+
+R scripts
+
+https://github.com/pogorely/ALICE
+
+> Detecting TCR involved in immune responses from single RepSeq datasets.
+
+Pogorelyy, M. V. et al. [Detecting T cell receptors involved in immune responses from single repertoire snapshots.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000314) PLoS Biol. 17, e3000314 (2019)
+
 ### DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
 
 Python package
