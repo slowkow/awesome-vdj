@@ -135,6 +135,17 @@ https://github.com/pogorely/ALICE
 
 Pogorelyy, M. V. et al. [Detecting T cell receptors involved in immune responses from single repertoire snapshots.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000314) PLoS Biol. 17, e3000314 (2019)
 
+### CONGA: Clonotype Neighbor Graph Analysis
+
+Python scripts and C++ code
+
+https://github.com/phbradley/conga
+
+> CONGA was developed to detect correlation between T cell gene expression profile and TCR sequence in single-cell datasets.
+
+Schattgen, S. A. et al. [Linking T cell receptor sequence to transcriptional profiles with clonotype neighbor graph analysis (CoNGA).](https://www.biorxiv.org/content/10.1101/2020.06.04.134536v1) Cold Spring Harbor Laboratory 2020.06.04.134536 (2020) doi:10.1101/2020.06.04.134536
+
+
 ### DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
 
 Python package
