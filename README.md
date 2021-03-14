@@ -210,6 +210,14 @@ https://github.com/Mangul-Lab-USC/imrep
 
 Mandric, I., Rotman, J., Yang, H.T. et al. [Profiling immunoglobulin repertoires across multiple human tissues using RNA sequencing.](https://doi.org/10.1038/s41467-020-16857-7) Nat Commun 11, 3126 (2020).
 
+### IMSEQ: IMmunogenetic SEQuence Analysis
+
+C++ tools
+
+https://github.com/lkuchenb/imseq
+
+> IMSEQ is a fast, PCR and sequencing error aware tool to analyze high throughput data from recombined T-cell receptor or immunoglobolin gene sequencing experiments. It derives immune repertoires from sequencing data in FASTA / FASTQ format.
+
 ### MiGMAP: mapper for full-length T- and B-cell repertoire sequencing
 
 Groovy and Java tools
