@@ -384,6 +384,15 @@ https://github.com/cschin/MATER
 
 > We annotate each each reads to possible HLA serotype or 4 digit type sequence according the minimizer matches. Some reads may be able to assign to single HLA type-sequence, some other may be more ambiguous. We derive a simple score to summarize the results from all reads that are mapped to HLA-type sequences for each HLA allele.
 
+### MultiHLA: WES HLA Typing based on multiple alternative tools
+
+Snakemake workflows
+
+https://github.com/lkuchenb/MultiHLA
+
+> This workflow enables the concurrent analysis of WES or WGS data using publicly available software to derive HLA haplotypes from this type of data.
+> It includes automated Snakemake workflows for the following tools: xHLA, HLA-VBSeq, OptiType, HLA-LA, arcasHLA
+
 ### OptiType: Precision HLA typing from next-generation sequencing data
 
 Python scripts
