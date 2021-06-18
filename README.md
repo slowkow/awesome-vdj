@@ -146,6 +146,17 @@ https://github.com/phbradley/conga
 Schattgen, S. A. et al. [Linking T cell receptor sequence to transcriptional profiles with clonotype neighbor graph analysis (CoNGA).](https://www.biorxiv.org/content/10.1101/2020.06.04.134536v1) Cold Spring Harbor Laboratory 2020.06.04.134536 (2020) doi:10.1101/2020.06.04.134536
 
 
+### ClusTCR: a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity
+
+Python package
+
+https://github.com/svalkiers/clusTCR
+
+> CDR3 clustering module providing a new method for fast and accurate clustering of large data sets of CDR3 amino acid sequences, and offering functionalities for downstream analysis of clustering results.
+> 
+> A two-step clustering approach that combines the speed of the Faiss Clustering Library with the accuracy of Markov Clustering Algorithm
+> On a standard machine*, clusTCR can cluster 1 million CDR3 sequences in under 5 minutes.
+
 ### DeepTCR: Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
 
 Python package
