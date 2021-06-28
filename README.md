@@ -245,6 +245,16 @@ https://github.com/milaboratory/mixcr
 
 > MiXCR is a universal framework that processes big immunome data from raw sequences to quantitated clonotypes. MiXCR efficiently handles paired- and single-end reads, considers sequence quality, corrects PCR errors and identifies germline hypermutations. The software supports both partial- and full-length profiling and employs all available RNA or DNA information, including sequences upstream of V and downstream of J gene segments.
 
+### mvTCR
+
+https://github.com/SchubertLab/mvTCR
+
+Trained models: https://zenodo.org/record/5006839
+
+> A multi-view Variational Autoencoder (mvTCR) to jointly embed transcriptomic and TCR sequence information at a single-cell level to better capture the phenotypic behavior of T cells. 
+
+An Y, Drost F, Theis F, Schubert B, Lotfollahi M. [Jointly learning T-cell receptor and transcriptomic information to decipher the immune response.](https://www.biorxiv.org/content/10.1101/2021.06.24.449733v1) bioRxiv. 2021. p. 2021.06.24.449733.
+
 ### PRESTO: The REpertoire Sequencing TOolkit
 
 Python package
