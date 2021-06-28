@@ -313,6 +313,16 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
+### TRUST4: TCR and BCR assembly from RNA-seq data
+
+C/C++ code
+
+https://github.com/liulab-dfci/TRUST4
+
+> Tcr Receptor Utilities for Solid Tissue (TRUST) is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data, profiled from solid tissues, including tumors. TRUST4 performs de novo assembly on V, J, C genes including the hypervariable complementarity-determining region 3 (CDR3) and reports consensus of BCR/TCR sequences. TRUST4 then realigns the contigs to IMGT reference gene sequences to report the corresponding information. TRUST4 supports both single-end and paired-end sequencing data with any read length.
+
+Song L, Cohen D, Ouyang Z, Cao Y, Hu X, Shirley Liu X. [TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data.](https://www.nature.com/articles/s41592-021-01142-2) Nat Methods. Nature Publishing Group; 2021 May 13;1–4.
+
 ### vampire: Deep generative models for TCR sequences
 
 Python package
