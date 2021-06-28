@@ -247,6 +247,8 @@ https://github.com/milaboratory/mixcr
 
 ### mvTCR
 
+Python scripts and Jupyter notebooks
+
 https://github.com/SchubertLab/mvTCR
 
 Trained models: https://zenodo.org/record/5006839
