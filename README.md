@@ -33,6 +33,8 @@ There are no broken links on this page if this badge is green:
 
 - Nemazee, D. [Mechanisms of central tolerance for B cells.](https://www.ncbi.nlm.nih.gov/pubmed/28368006) Nat. Rev. Immunol. 17, 281–294 (2017)
 
+- Pai J. A., Satpathy A. T. [High-throughput and single-cell T cell receptor sequencing technologies.](https://www.nature.com/articles/s41592-021-01201-8) Nat Methods. (2021)
+
 ---
 
 ## VDJ Databases
