@@ -129,6 +129,16 @@ https://github.com/antigenomics/vdjdb-db
 
 ## VDJ Analysis
 
+### Absolut: Unconstrained lattice antibody-antigen bindings generator - One tool to simulate them all!
+
+C++ software
+
+https://github.com/csi-greifflab/Absolut
+
+> Absolut! is a database and C++ user interface that allows the high-throughput computation for the 3D-lattice binding of any CDRH3 sequence to any antigen, enabling the custom generation of new antibody-antigen structural datasets for ML training or testing.
+
+Robert, P. A. et al. [A billion synthetic 3D-antibody-antigen complexes enable unconstrained machine-learning formalized investigation of antibody specificity prediction.](https://doi.org/10.1101/2021.07.06.451258) bioRxiv 2021.07.06.451258 (2021)
+
 ### ALICE: Antigen-specific Lymphocyte Identification by Clustering of Expanded sequences
 
 R scripts
