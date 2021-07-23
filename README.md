@@ -25,7 +25,7 @@ There are no broken links on this page if this badge is green:
 
 ## Literature
 
-- Pai, Joy A., and Ansuman T. Satpathy. [High-Throughput and Single-Cell T Cell Receptor Sequencing Technologies.](https://doi.org/10.1038/s41592-021-01201-8.) Nature Methods, July 2021.</td>
+- Pai, Joy A., and Ansuman T. Satpathy. [High-Throughput and Single-Cell T Cell Receptor Sequencing Technologies.](https://doi.org/10.1038/s41592-021-01201-8) Nature Methods, July 2021.</td>
 
 - Nordin, J., Ameur, A., Lindblad-Toh, K., Gyllensten, U., & Meadows, J. [SweHLA: the high confidence HLA typing bio-resource drawn from 1000 Swedish genomes. European journal of human genetics](https://www.nature.com/articles/s41431-019-0559-2) EJHG, 28(5), 627–635. (2020)
 
