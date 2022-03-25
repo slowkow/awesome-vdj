@@ -321,6 +321,16 @@ https://github.com/ncborcherding/scRepertoire
 
 Borcherding, N., Bormann, N. L. & Kraus, G. [scRepertoire: An R-based toolkit for single-cell immune receptor analysis.](https://pubmed.ncbi.nlm.nih.gov/32789006/) F1000Res. 9, 47 (2020)
 
+### TCRGP
+
+Python scripts
+
+https://github.com/emmijokinen/TCRGP
+
+> TCRGP is a novel Gaussian process method that can predict if TCRs recognize certain epitopes. This method can utilize different CDR sequences from both TCRα and TCRβ chains from single-cell data and learn which CDRs are important in recognizing the different epitopes. TCRGP has been developed at Aalto University.
+
+Jokinen E, Huuhtanen J, Mustjoki S, Heinonen M, Lähdesmäki H. [Predicting recognition between T cell receptors and epitopes with TCRGP.](https://pubmed.ncbi.nlm.nih.gov/33764977/) PLoS Comput Biol. 2021;17: e1008814.
+
 ### tcr-dist
 
 Python scripts
