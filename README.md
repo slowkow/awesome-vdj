@@ -21,6 +21,10 @@ There are no broken links on this page if this badge is green:
 - [HLA Databases](#hla-databases)
 - [HLA Analysis](#hla-analysis)
 
+**Related Work**
+
+- Ming Tang's list of links here: [TCR-BCR-seq-analysis](https://github.com/crazyhottommy/TCR-BCR-seq-analysis)
+
 ---
 
 ## Literature
