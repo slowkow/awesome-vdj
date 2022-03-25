@@ -339,6 +339,16 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
+### TITAN - Tcr epITope bimodal Attention Networks
+
+Python package
+
+https://github.com/PaccMann/TITAN
+
+> a bimodal neural network that explicitly encodes both TCR sequences and epitopes to enable the independent study of generalization capabilities to unseen TCRs and/or epitopes.
+
+Weber A, Born J, Rodriguez Martínez M. TITAN: [T-cell receptor specificity prediction with bimodal attention networks.](https://pubmed.ncbi.nlm.nih.gov/34252922/) Bioinformatics. 2021;37: i237–i244.
+
 ### TRUST4: TCR and BCR assembly from RNA-seq data
 
 C/C++ code
