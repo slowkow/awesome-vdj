@@ -343,6 +343,18 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
+
+### tcrdist3
+
+Python scripts
+
+https://github.com/kmayerb/tcrdist3
+
+> tcrdist3 is a Python API-enabled toolkit for analyzing T-cell receptor repertoires. Some of the functionality and code is adapted from the original tcr-dist package.
+
+Mayer-Blackwell K, Schattgen S, Cohen-Lavi L et al. [TCR meta-clonotypes for biomarker discovery with tcrdist3 enabled identification of public, HLA-restricted clusters of SARS-CoV-2 TCRs.](https://pubmed.ncbi.nlm.nih.gov/34845983/) eLife. 2021;10: e68605.
+
+
 ### TITAN - Tcr epITope bimodal Attention Networks
 
 Python package
