@@ -343,6 +343,7 @@ https://github.com/phbradley/tcr-dist
 
 > Software tools for the analysis of epitope-specific T cell receptor (TCR) repertoires
 
+Dash P, Fiore-Gartland A, Hertz T et al. [Quantifiable predictive features define epitope-specific T cell receptor repertoires.](https://pubmed.ncbi.nlm.nih.gov/28636592/) Nature. 2017;547(7661): 89-93.
 
 ### tcrdist3
 
