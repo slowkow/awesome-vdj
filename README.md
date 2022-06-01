@@ -347,7 +347,7 @@ Dash P, Fiore-Gartland A, Hertz T et al. [Quantifiable predictive features defin
 
 ### tcrdist3
 
-Python scripts
+Python package
 
 https://github.com/kmayerb/tcrdist3
 
