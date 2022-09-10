@@ -466,7 +466,7 @@ https://github.com/Kingsford-Group/kourami
 
 > Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs highly accurate haplotype sequences at 1-bp resolution by first encoding currently available HLA allelic sequences from IPD-IMGT/HLA Database http://www.ebi.ac.uk/ipd/imgt/hla/ as partial-ordered graphs.
 
-Lee, H., & Kingsford, C. (Kourami: graph-guided assembly for novel human leukocyte antigen allele discovery.)[https://pubmed.ncbi.nlm.nih.gov/29415772/] Genome Biology 19(16), 2018
+Lee, H., & Kingsford, C. [Kourami: graph-guided assembly for novel human leukocyte antigen allele discovery.](https://pubmed.ncbi.nlm.nih.gov/29415772/) Genome Biology 19(16), 2018
 
 ### MATER: Minimizer RNAseq HLA typer
 
@@ -527,4 +527,4 @@ https://github.com/humanlongevity/HLA
 
 > xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X whole genome BAM file on a desktop computer.
 
-Xie, C., Yeo, Z. X., Wong, M., Piper, J., Long, T., Kirkness, E. F., ... & Brady, C. (2017). (Fast and accurate HLA typing from short-read next-generation sequence data with xHLA.)[https://pubmed.ncbi.nlm.nih.gov/28674023] Proceedings of the National Academy of Sciences, 114(30), 8059-8064.
+Xie, C., Yeo, Z. X., Wong, M., Piper, J., Long, T., Kirkness, E. F., ... & Brady, C. (2017). [Fast and accurate HLA typing from short-read next-generation sequence data with xHLA.](https://pubmed.ncbi.nlm.nih.gov/28674023) Proceedings of the National Academy of Sciences, 114(30), 8059-8064.
