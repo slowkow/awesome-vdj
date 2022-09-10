@@ -458,6 +458,16 @@ https://github.com/ExpressionAnalysis/HLAProfiler
 
 > HLAProfiler uses the k-mer content of next generation sequencing reads to call HLA types in a sample. Based on the k-mer content each each read pair is assigned to an HLA gene and the aggregate k-mer profile for the gene is compared to reference k-mer profiles to determin the HLA type. Currently HLAProfiler only supports paired-end RNA-seq data.
 
+### Kourami: Graph-guided assembly for HLA alleles
+
+Bash scripts and Java code
+
+https://github.com/Kingsford-Group/kourami
+
+> Kourami is a graph-guided assembler for HLA haplotypes covering typing exons (exons 2 and 3 for Class I and exon 3 for Class II) using high-coverage whole genome sequencing data. Kourami constructs highly accurate haplotype sequences at 1-bp resolution by first encoding currently available HLA allelic sequences from IPD-IMGT/HLA Database http://www.ebi.ac.uk/ipd/imgt/hla/ as partial-ordered graphs.
+
+Lee, H., & Kingsford, C. (Kourami: graph-guided assembly for novel human leukocyte antigen allele discovery.)[https://pubmed.ncbi.nlm.nih.gov/29415772/] Genome Biology 19(16), 2018
+
 ### MATER: Minimizer RNAseq HLA typer
 
 Python scripts and C code
