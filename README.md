@@ -508,3 +508,13 @@ C shell script
 http://software.broadinstitute.org/mpg/snp2hla/
 
 > SNP2HLA is a tool to impute amino acid polymorphisms and single nucleotide polymorphisms in human luekocyte antigenes (HLA) within the major histocompatibility complex (MHC) region in chromosome 6.
+
+### xHLA: Fast and accurate HLA typing from short read sequence data
+
+Bash, Perl, Python, and R scripts
+
+https://github.com/humanlongevity/HLA
+
+> xHLA iteratively refines the mapping results at the amino acid level to achieve 99 to 100% 4-digit typing accuracy for both class I and II HLA genes, taking only about 3 minutes to process a 30X whole genome BAM file on a desktop computer.
+
+Xie, C., Yeo, Z. X., Wong, M., Piper, J., Long, T., Kirkness, E. F., ... & Brady, C. (2017). (Fast and accurate HLA typing from short-read next-generation sequence data with xHLA.)[https://www.pnas.org/doi/10.1073/pnas.1707945114] Proceedings of the National Academy of Sciences, 114(30), 8059-8064.
