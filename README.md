@@ -398,6 +398,12 @@ https://github.com/mikessh/vdjtools
 
 ## HLA Databases
 
+### Nomenclature of HLA Alleles
+
+https://hla.alleles.org/nomenclature/index.html
+
+<a href="https://hla.alleles.org/nomenclature/index.html"><img src="https://user-images.githubusercontent.com/209714/225058282-743fa09b-ccee-4d37-b912-623da45bacef.png"></a>
+
 ### Allele Frequency Net Database
 
 http://www.allelefrequencies.net/
