@@ -398,6 +398,14 @@ https://github.com/mikessh/vdjtools
 
 ## HLA Databases
 
+### Allele Frequency Net Database
+
+http://www.allelefrequencies.net/
+
+> AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer-cell immunoglobulin-like receptors, etc. To produce this database we have compiled a large collection of datasets from different sources including: (i) peer-reviewed literature, (ii) datasets from international workshops in immunogenetics and histocompatiblity and (iii) data submitted directly to AFND by individual laboratories. As more than 75% of the submissions in AFND are derived from peer-review literature, we rely upon data verification by journal editors and reviewers when source studies are published.
+
+Gonzalez-Galarza FF, McCabe A, Santos EJMD, Jones J, Takeshita L, Ortega-Rivera ND, et al. [Allele frequency net database (AFND) 2020 update: gold-standard data classification, open access genotype data and new query tools.](https://pubmed.ncbi.nlm.nih.gov/31722398/) Nucleic Acids Res. 2020;48: D783–D788. doi:10.1093/nar/gkz1029
+
 ### IEDB: Immune Epitope Database and Analysis Resource
 
 https://www.iedb.org/
