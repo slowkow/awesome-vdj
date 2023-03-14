@@ -29,17 +29,30 @@ There are no broken links on this page if this badge is green:
 
 ## Literature
 
+<table>
+  <tr>
+    <td width="25%" ><img src="https://user-images.githubusercontent.com/209714/225067278-86f5ea91-a059-4b5a-8773-e25e6ee7d122.png"</td>
+    <td>La Gruta, N. L., Gras, S., Daley, S. R., Thomas, P. G. & Rossjohn, J. <a href="https://pubmed.ncbi.nlm.nih.gov/29636542/">Understanding the drivers of MHC restriction of T cell receptors.</a> Nat. Rev. Immunol. 18, 467–478 (2018)</td>
+  </tr>
+  <tr>
+    <td width="25%" >
+    <img src="https://user-images.githubusercontent.com/209714/225068718-ef9531a0-a409-4348-bcc7-e56178d7fc12.png">
+    </td>
+    <td>Robson, K. J., Ooi, J. D., Holdsworth, S. R., Rossjohn, J. & Kitching, A. R. <a href="https://pubmed.ncbi.nlm.nih.gov/30206339/">HLA and kidney disease: from associations to mechanisms.</a> Nat. Rev. Nephrol. 14, 636–655 (2018)</td>
+  </tr>
+    <tr>
+    <td width="25%" >
+<img src="https://user-images.githubusercontent.com/209714/225070935-bbcb31f2-d2e5-4b99-995c-ba808a59dae2.png">
+    </td>
+      <td>Nemazee, D. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28368006">Mechanisms of central tolerance for B cells.</a> Nat. Rev. Immunol. 17, 281–294 (2017)</td>
+  </tr>
+</table>
+
 - Pai, Joy A., and Ansuman T. Satpathy. [High-Throughput and Single-Cell T Cell Receptor Sequencing Technologies.](https://doi.org/10.1038/s41592-021-01201-8) Nature Methods, July 2021.</td>
 
-- Nordin, J., Ameur, A., Lindblad-Toh, K., Gyllensten, U., & Meadows, J. [SweHLA: the high confidence HLA typing bio-resource drawn from 1000 Swedish genomes. European journal of human genetics](https://www.nature.com/articles/s41431-019-0559-2) EJHG, 28(5), 627–635. (2020)
+- Nordin, J., Ameur, A., Lindblad-Toh, K., Gyllensten, U., & Meadows, J. [SweHLA: the high confidence HLA typing bio-resource drawn from 1000 Swedish genomes.](https://www.nature.com/articles/s41431-019-0559-2) EJHG, 28(5), 627–635. (2020)
 
 - Greiff, V., Yaari, G. & Cowell, L. G. [Mining adaptive immune receptor repertoires for biological and clinical information using machine learning.](http://dx.doi.org/10.1016/j.coisb.2020.10.010) Current Opinion in Systems Biology 24, 109–119 (2020)
-
-- La Gruta, N. L., Gras, S., Daley, S. R., Thomas, P. G. & Rossjohn, J. [Understanding the drivers of MHC restriction of T cell receptors.](https://pubmed.ncbi.nlm.nih.gov/29636542/) Nat. Rev. Immunol. 18, 467–478 (2018)
-
-- Robson, K. J., Ooi, J. D., Holdsworth, S. R., Rossjohn, J. & Kitching, A. R. [HLA and kidney disease: from associations to mechanisms.](https://pubmed.ncbi.nlm.nih.gov/30206339/) Nat. Rev. Nephrol. 14, 636–655 (2018)
-
-- Nemazee, D. [Mechanisms of central tolerance for B cells.](https://www.ncbi.nlm.nih.gov/pubmed/28368006) Nat. Rev. Immunol. 17, 281–294 (2017)
 
 ---
 
