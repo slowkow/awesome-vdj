@@ -1,4 +1,4 @@
-# awesome-vdj
+# awesome-vdj <a href="https://www.rcsb.org/structure/6py2"><img width="40%" align="right" src="https://github.com/slowkow/awesome-vdj/assets/209714/f4d66475-9425-41b0-9a38-f8255eca903a"></a>
 
 [Antigen] presentation and recognition is central to immunology. [HLA genes] encode the proteins that present antigens. [VDJ genes][vdj] encode the receptors: T cell receptors (TCRs) in T cells and the repertoires of antibodies/immunoglobulins in B cells.
 
