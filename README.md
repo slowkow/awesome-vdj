@@ -31,20 +31,28 @@ There are no broken links on this page if this badge is green:
 
 <table>
   <tr>
-    <td width="25%" ><img src="https://user-images.githubusercontent.com/209714/225067278-86f5ea91-a059-4b5a-8773-e25e6ee7d122.png"</td>
+    <td width="25%" >
+      <img src="https://user-images.githubusercontent.com/209714/225067278-86f5ea91-a059-4b5a-8773-e25e6ee7d122.png">
+    </td>
     <td>La Gruta, N. L., Gras, S., Daley, S. R., Thomas, P. G. & Rossjohn, J. <a href="https://pubmed.ncbi.nlm.nih.gov/29636542/">Understanding the drivers of MHC restriction of T cell receptors.</a> Nat. Rev. Immunol. 18, 467–478 (2018)</td>
   </tr>
   <tr>
     <td width="25%" >
-    <img src="https://user-images.githubusercontent.com/209714/225068718-ef9531a0-a409-4348-bcc7-e56178d7fc12.png">
+      <img src="https://user-images.githubusercontent.com/209714/225068718-ef9531a0-a409-4348-bcc7-e56178d7fc12.png">
     </td>
     <td>Robson, K. J., Ooi, J. D., Holdsworth, S. R., Rossjohn, J. & Kitching, A. R. <a href="https://pubmed.ncbi.nlm.nih.gov/30206339/">HLA and kidney disease: from associations to mechanisms.</a> Nat. Rev. Nephrol. 14, 636–655 (2018)</td>
   </tr>
-    <tr>
+  <tr>
     <td width="25%" >
-<img src="https://user-images.githubusercontent.com/209714/225070935-bbcb31f2-d2e5-4b99-995c-ba808a59dae2.png">
+      <img src="https://user-images.githubusercontent.com/209714/225070935-bbcb31f2-d2e5-4b99-995c-ba808a59dae2.png">
     </td>
       <td>Nemazee, D. <a href="https://www.ncbi.nlm.nih.gov/pubmed/28368006">Mechanisms of central tolerance for B cells.</a> Nat. Rev. Immunol. 17, 281–294 (2017)</td>
+  </tr>
+ <tr>
+    <td width="25%" >
+      <img src="https://github.com/slowkow/awesome-vdj/assets/209714/c262d57b-cb0c-46bf-b014-6123fed585c3">
+    </td>
+      <td>Sewell AK. <a href="https://pubmed.ncbi.nlm.nih.gov/22918468">Why must T cells be cross-reactive?</a> Nat. Rev. Immunol. 12, 669–677 (2012)</td>
   </tr>
 </table>
 
