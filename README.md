@@ -222,6 +222,17 @@ https://github.com/10XGenomics/enclone
 
 > enclone is standalone software (primarily written in Rust) developed by 10x Genomics for analysis of single cell TCR and BCR sequences. enclone performs SHM-aware clonotyping, phylogenetic/lineage analysis, multiple sequence alignment, and provides an extremely fast interface to analyze, display, and export VDJ, gene expression, and feature barcoding (REAP-seq, CITE-seq, ECCITE-seq, LIBRA-seq, PERTURB-seq, _etc._) data.
 
+### GIANA: Geometry Isometry based TCR AligNment Algorithm
+
+Python scripts
+
+https://github.com/s175573/GIANA
+
+> Geometric Isometry-
+based TCR AligNment Algorithm (GIANA), a mathematical framework to transform the CDR3 sequences, which converted the sequence alignment and clustering problem into a classic nearest neighbor search in the high-dimensional Euclidean space.
+
+Zhang H, Zhan X, Li B. [GIANA allows computationally-efficient TCR clustering and multi-disease repertoire classification by isometric transformation.](https://www.ncbi.nlm.nih.gov/pubmed/34349111) Nat Commun. 2021;12: 4699. doi:10.1038/s41467-021-25006-7
+
 ### immunarch: An R Package for Painless Bioinformatics Analysis of T-cell and B-cell Immune Repertoire Data
 
 R package
