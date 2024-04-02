@@ -387,6 +387,18 @@ https://github.com/kmayerb/tcrdist3
 
 Mayer-Blackwell K, Schattgen S, Cohen-Lavi L et al. [TCR meta-clonotypes for biomarker discovery with tcrdist3 enabled identification of public, HLA-restricted clusters of SARS-CoV-2 TCRs.](https://pubmed.ncbi.nlm.nih.gov/34845983/) eLife. 2021;10: e68605.
 
+### TCRdock
+
+Python scripts
+
+https://github.com/phbradley/TCRdock
+
+> Python tools for TCR:peptide-MHC modeling and analysis:
+> - Set up and run TCR-specialized AlphaFold simulations starting from a TSV file with TCR, peptide, and MHC information.
+> - Parse a TCR:peptide-MHC ternary PDB structure and define V/J/CDR3, MHC allele, TCR and MHC coordinate frames, and TCR:pMHC docking geometry
+> - Calculate distances between docking geometries ('docking RMSDs') for use in clustering/docking analysis and model evaluation.
+
+Bradley P. [Structure-based prediction of T cell receptor:peptide-MHC interactions.](https://pubmed.ncbi.nlm.nih.gov/36661395/) Elife. 2023;12: e82813. doi:10.7554/eLife.82813
 
 ### TITAN - Tcr epITope bimodal Attention Networks
 
