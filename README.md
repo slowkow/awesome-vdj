@@ -365,7 +365,7 @@ https://github.com/emmijokinen/TCRconv
 
 > TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.
 
-Jokinen E, Dumitrescu A, Huuhtanen J, Gligorijević V, Mustjoki S, Bonneau R, et al. Predicting recognition between T cell receptors and epitopes using contextualized motifs. bioRxiv. 2022. p. 2022.05.23.493034. doi:10.1101/2022.05.23.493034
+Jokinen E, Dumitrescu A, Huuhtanen J, Gligorijević V, Mustjoki S, Bonneau R, et al. [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs.](https://pubmed.ncbi.nlm.nih.gov/36477794/) Bioinformatics. 2023;39. doi:10.1093/bioinformatics/btac788
 
 ### TCRGP
 
