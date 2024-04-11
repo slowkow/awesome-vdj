@@ -357,6 +357,16 @@ https://github.com/ncborcherding/scRepertoire
 
 Borcherding, N., Bormann, N. L. & Kraus, G. [scRepertoire: An R-based toolkit for single-cell immune receptor analysis.](https://pubmed.ncbi.nlm.nih.gov/32789006/) F1000Res. 9, 47 (2020)
 
+### TCRconv
+
+Python package
+
+https://github.com/emmijokinen/TCRconv
+
+> TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.
+
+Jokinen E, Dumitrescu A, Huuhtanen J, Gligorijević V, Mustjoki S, Bonneau R, et al. Predicting recognition between T cell receptors and epitopes using contextualized motifs. bioRxiv. 2022. p. 2022.05.23.493034. doi:10.1101/2022.05.23.493034
+
 ### TCRGP
 
 Python scripts
