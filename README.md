@@ -502,6 +502,14 @@ https://github.com/WansonChoi/HATK
 
 > HATK(HLA Analysis Tool-Kit) is a collection of tools and modules to perform HLA fine-mapping analysis, which is to identify which HLA allele or amino acid position of the HLA gene is driving the disease.
 
+## hla3: weight of evidence of HLA allele expression based on bulk TCR beta-chain repertoires
+
+Python scripts
+
+https://github.com/kmayerb/hla3
+
+> This repository contains Python functions for inferring HLA-alleles from bulk TCR beta chain data using a simple weight of evidence predictor.
+
 ### HLA-LA: Fast HLA type inference from whole-genome data
 
 C++ and Perl
