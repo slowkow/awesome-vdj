@@ -410,6 +410,16 @@ https://github.com/phbradley/TCRdock
 
 Bradley P. [Structure-based prediction of T cell receptor:peptide-MHC interactions.](https://pubmed.ncbi.nlm.nih.gov/36661395/) Elife. 2023;12: e82813. doi:10.7554/eLife.82813
 
+### TCRmodel2: high-resolution modeling of T cell receptor recognition using deep learning
+
+Python scripts
+
+https://github.com/piercelab/tcrmodel2
+
+> This method, named TCRmodel2, allows users to submit sequences through an easy-to-use interface and shows similar or greater accuracy than AlphaFold and other methods to model TCR–peptide–MHC complexes based on benchmarking. It can generate models of complexes in 15 minutes, and output models are provided with confidence scores and an integrated molecular viewer
+
+Yin R, Ribeiro-Filho HV, Lin V, Gowthaman R, Cheung M, Pierce BG. [TCRmodel2: high-resolution modeling of T cell receptor recognition using deep learning.](https://www.ncbi.nlm.nih.gov/pubmed/37140040) Nucleic Acids Res. 2023;51: W569–W576. doi:10.1093/nar/gkad356
+
 ### TITAN - Tcr epITope bimodal Attention Networks
 
 Python package
