@@ -357,6 +357,18 @@ https://github.com/ncborcherding/scRepertoire
 
 Borcherding, N., Bormann, N. L. & Kraus, G. [scRepertoire: An R-based toolkit for single-cell immune receptor analysis.](https://pubmed.ncbi.nlm.nih.gov/32789006/) F1000Res. 9, 47 (2020)
 
+### tcr-bert
+
+Python scripts
+
+https://github.com/wukevin/tcr-bert
+
+Categories: embedding, predicting antigens
+
+> TCR-BERT is a large language model trained on T-cell receptor sequences, built using a lightly modified BERT architecture with tweaked pre-training objectives.
+
+Wu K, Yost KE, Daniel B, Belk JA, Xia Y, Egawa T, et al. [TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses.](http://dx.doi.org/10.1101/2021.11.18.469186) bioRxiv. 2021. p. 2021.11.18.469186. doi:10.1101/2021.11.18.469186
+
 ### TCRconv
 
 Python package
