@@ -617,6 +617,16 @@ http://software.broadinstitute.org/mpg/snp2hla/
 
 > SNP2HLA is a tool to impute amino acid polymorphisms and single nucleotide polymorphisms in human luekocyte antigenes (HLA) within the major histocompatibility complex (MHC) region in chromosome 6.
 
+### T1K: efficient and accurate inference of KIR or HLA alleles from RNA-seq, whole-genome sequencing, or whole-exome sequencing data
+
+C++ tool and Perl scripts
+
+https://github.com/mourisl/T1K
+
+> T1K (The ONE genotyper for Kir and HLA) is a computational tool to infer the alleles for the polymorphic genes such as KIR and HLA. T1K calculates the allele abundances based on the RNA-seq/WES/WGS read alignments on the provided allele reference sequences. The abundances are used to pick the true alleles for each gene. T1K provides the post analysis steps, including novel SNP detection and single-cell representation. T1K supports both single-end and paired-end sequencing data with any read length.
+
+Song L, Bai G, Liu XS, Li B, Li H. [Efficient and accurate KIR and HLA genotyping with massively parallel sequencing data.](https://pubmed.ncbi.nlm.nih.gov/37169596/) Genome Res. 2023 [cited 13 May 2023]. doi:10.1101/gr.277585.122
+
 ### xHLA: Fast and accurate HLA typing from short read sequence data
 
 Bash, Perl, Python, and R scripts
