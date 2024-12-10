@@ -516,6 +516,14 @@ https://github.com/RabadanLab/arcasHLA
 
 > arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.
 
+### BIGDAWG
+
+R package
+
+https://github.com/IgDAWG/BIGDAWG
+
+> Data sets and functions for chi-squared Hardy-Weinberg and case-control association tests of highly polymorphic genetic data [e.g., human leukocyte antigen (HLA) data]. Performs association tests at multiple levels of polymorphism (haplotype, locus and HLA amino-acids) as described in Pappas DJ, Marin W, Hollenbach JA, Mack SJ (2016) doi:10.1016/j.humimm.2015.12.006. Combines rare variants to a common class to account for sparse cells in tables as described by Hollenbach JA, Mack SJ, Thomson G, Gourraud PA (2012) doi:10.1007/978-1-61779-842-9_14.
+
 ### HATK: HLA Analysis Toolkit
 
 Python scripts
@@ -555,6 +563,22 @@ Perl scripts
 https://github.com/ExpressionAnalysis/HLAProfiler
 
 > HLAProfiler uses the k-mer content of next generation sequencing reads to call HLA types in a sample. Based on the k-mer content each each read pair is assigned to an HLA gene and the aggregate k-mer profile for the gene is compared to reference k-mer profiles to determin the HLA type. Currently HLAProfiler only supports paired-end RNA-seq data.
+
+### hlabud: HLA genotype analysis in R
+
+R package
+
+https://github.com/slowkow/hlabud
+
+> hlabud provides methods to retrieve sequence alignment data from IMGTHLA and convert the data into convenient R matrices ready for downstream analysis. See the usage examples to learn how to use the data with logistic regression and dimensionality reduction. We also share tips on how to visualize the 3D molecular structure of HLA proteins and highlight specific amino acid residues.
+
+### HLAtools: Functions and Datasets for HLA Informatics
+
+R package
+
+https://github.com/sjmack/HLAtools
+
+> We have developed HLAtools, an R package that automates the consumption of IPD-IMGT/HLA resources, renders them computable, and makes them available alongside tools for data analysis, visualization and investigation. Tthe package is compatible with all IPD-IMGT/HLA Database release versions up to release 3.58.0.
 
 ### Kourami: Graph-guided assembly for HLA alleles
 
