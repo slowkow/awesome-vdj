@@ -516,7 +516,7 @@ https://github.com/RabadanLab/arcasHLA
 
 > arcasHLA performs high resolution genotyping for HLA class I and class II genes from RNA sequencing, supporting both paired and single-end samples.
 
-### BIGDAWG
+### BIGDAWG: Case-Control Analysis of Multi-Allelic Loci
 
 R package
 
