@@ -112,7 +112,7 @@ https://gateway.ireceptor.org/home
 
 ### McPAS-TCR: A manually curated catalogue of pathology associated T-cell receptor sequences
 
-http://friedmanlab.weizmann.ac.il/McPAS-TCR/
+https://friedmanlab.weizmann.ac.il/McPAS-TCR/
 
 > McPAS-TCR is a manually curated catalogue of T cell receptor (TCR) sequences that were found in T cells associated with various pathological conditions in humans and in mice. It is meant to link TCR sequences to their antigen target or to the pathology and organ with which they are associated.
 
