@@ -379,6 +379,26 @@ https://github.com/emmijokinen/TCRconv
 
 Jokinen E, Dumitrescu A, Huuhtanen J, Gligorijević V, Mustjoki S, Bonneau R, et al. [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs.](https://pubmed.ncbi.nlm.nih.gov/36477794/) Bioinformatics. 2023;39. doi:10.1093/bioinformatics/btac788
 
+### TCRconvert
+
+Python package
+
+https://github.com/seshadrilab/tcrconvert
+
+> TCRconvert converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.
+
+Manuscript in preparation.
+
+### TCRconvertR
+
+R package
+
+https://github.com/seshadrilab/tcrconvertr
+
+> TCRconvertR converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.
+
+Manuscript in preparation.
+
 ### TCRGP
 
 Python scripts
