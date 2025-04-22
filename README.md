@@ -502,7 +502,7 @@ https://hla.alleles.org/nomenclature/index.html
 
 ### Allele Frequency Net Database
 
-http://www.allelefrequencies.net/
+http://www.allelefrequencies.net/collaborators.asp
 
 > AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer-cell immunoglobulin-like receptors, etc. To produce this database we have compiled a large collection of datasets from different sources including: (i) peer-reviewed literature, (ii) datasets from international workshops in immunogenetics and histocompatiblity and (iii) data submitted directly to AFND by individual laboratories. As more than 75% of the submissions in AFND are derived from peer-review literature, we rely upon data verification by journal editors and reviewers when source studies are published.
 
