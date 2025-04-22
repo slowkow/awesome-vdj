@@ -313,7 +313,7 @@ Python package
 
 https://presto.readthedocs.io/en/stable
 
-https://bitbucket.org/kleinstein/presto
+https://github.com/immcantation/presto
 
 > pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires.
 > 
