@@ -313,7 +313,7 @@ Python package
 
 https://presto.readthedocs.io/en/stable
 
-https://bitbucket.org/kleinstein/presto
+https://github.com/immcantation/presto
 
 > pRESTO is a toolkit for processing raw reads from high-throughput sequencing of B cell and T cell repertoires.
 > 
@@ -378,6 +378,26 @@ https://github.com/emmijokinen/TCRconv
 > TCRconv is a deep learning model for predicting recognition between T cell receptors and epitopes. It uses protBERT embeddings for the TCRs and convolutional neural networks for the prediction.
 
 Jokinen E, Dumitrescu A, Huuhtanen J, Gligorijević V, Mustjoki S, Bonneau R, et al. [TCRconv: predicting recognition between T cell receptors and epitopes using contextualized motifs.](https://pubmed.ncbi.nlm.nih.gov/36477794/) Bioinformatics. 2023;39. doi:10.1093/bioinformatics/btac788
+
+### TCRconvert
+
+Python package
+
+https://github.com/seshadrilab/tcrconvert
+
+> TCRconvert converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.
+
+Manuscript in preparation.
+
+### TCRconvertR
+
+R package
+
+https://github.com/seshadrilab/tcrconvertr
+
+> TCRconvertR converts T cell receptor (TCR) gene names between the 10X, Adaptive, and IMGT naming conventions. It supports alpha-beta and gamma-delta TCRs for human, mouse, and rhesus macaque.
+
+Manuscript in preparation.
 
 ### TCRGP
 
@@ -482,7 +502,7 @@ https://hla.alleles.org/nomenclature/index.html
 
 ### Allele Frequency Net Database
 
-http://www.allelefrequencies.net/
+http://www.allelefrequencies.net/collaborators.asp
 
 > AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer-cell immunoglobulin-like receptors, etc. To produce this database we have compiled a large collection of datasets from different sources including: (i) peer-reviewed literature, (ii) datasets from international workshops in immunogenetics and histocompatiblity and (iii) data submitted directly to AFND by individual laboratories. As more than 75% of the submissions in AFND are derived from peer-review literature, we rely upon data verification by journal editors and reviewers when source studies are published.
 
