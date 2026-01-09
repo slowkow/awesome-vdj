@@ -135,7 +135,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 - [**vdjer**](https://github.com/mozack/vdjer) — V'DJer -  B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data<br>⭐ [29](https://github.com/mozack/vdjer/stargazers) · `C`
 
-- [**CATT**](https://github.com/GuoBioinfoLab/CATT) — An ultra-sensitive and precise tool for characterizing T cell CDR3 sequences in TCR-seq and RNA-seq data.<br>⭐ [21](https://github.com/GuoBioinfoLab/CATT/stargazers) · [Homepage](http://bioinfo.life.hust.edu.cn/CATT/) · `Julia`
+- [**CATT**](https://github.com/GuoBioinfoLab/CATT) — An ultra-sensitive and precise tool for characterizing T cell CDR3 sequences in TCR-seq and RNA-seq data.<br>⭐ [21](https://github.com/GuoBioinfoLab/CATT/stargazers) · `Julia`
 
 - [**epitopefindr**](https://github.com/brandonsie/epitopefindr) — R package to BLAST peptide sequences against each other and identify the minimal overlap of aligning regions.<br>⭐ [16](https://github.com/brandonsie/epitopefindr/stargazers) · [Homepage](https://brandonsie.github.io/epitopefindr/) · `R`
 
@@ -177,13 +177,15 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Epitope Prediction
 
+- [**neoantigens**](https://github.com/umccr/neoantigens) — Exploring novel tumor epitope identification<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36604431/) · 🪝 [624](https://www.semanticscholar.org/paper/327da2a2b6bdbb3eea81e8a11b832c1955dd33d7) · ⭐ [37](https://github.com/umccr/neoantigens/stargazers) · `Python`
+
 - [**epitopepredict**](https://github.com/dmnfarrell/epitopepredict) — Python package and command line tool for epitope prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36824339/) · 🪝 [6](https://www.semanticscholar.org/paper/073554e81b4370b4f409fa7bdedaa9c36e78d83f) · ⭐ [52](https://github.com/dmnfarrell/epitopepredict/stargazers) · `Jupyter Notebook`
 
 - [**MuPeXI**](https://github.com/ambj/MuPeXI) — MuPeXI: the mutant peptide extractor and informer, a tool for predicting neo-epitopes from tumor sequencing data.<br>⭐ [52](https://github.com/ambj/MuPeXI/stargazers) · `Python`
 
 - [**epitopeprediction**](https://github.com/nf-core/epitopeprediction) — A bioinformatics best-practice analysis pipeline for epitope prediction and annotation<br>⭐ [49](https://github.com/nf-core/epitopeprediction/stargazers) · [Homepage](https://nf-co.re/epitopeprediction) · `Nextflow`
 
-- [**neoantigens**](https://github.com/umccr/neoantigens) — Exploring novel tumor epitope identification<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36604431/) · ⭐ [37](https://github.com/umccr/neoantigens/stargazers) · `Python`
+- [**pyrepseq**](https://github.com/andim/pyrepseq) — Python library for immune repertoire analysis<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/36649423/) · 🪝 29 · ⭐ [17](https://github.com/andim/pyrepseq/stargazers) · `Python`
 
 - [**MixTCRpred**](https://github.com/GfellerLab/MixTCRpred) — Predictor of TCR-epitope interactions<br>⭐ [34](https://github.com/GfellerLab/MixTCRpred/stargazers) · `Python`
 
@@ -194,8 +196,6 @@ Here, researchers can find links to tools and resources for computational analys
 - [**EpiDope**](https://github.com/rnajena/EpiDope) — Prediction of B-cell epitopes from amino acid sequences using deep neural networks.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/34109374/) · 🪝 [11](https://www.semanticscholar.org/paper/73df19c2feb455fb3df7aaec1c6ebde0c85305c6) · ⭐ [18](https://github.com/rnajena/EpiDope/stargazers) · `Python`
 
 - [**Repitope**](https://github.com/masato-ogishi/Repitope) — Epitope immunogenicity prediction through in silico TCR-peptide contact potential profiling.<br>⭐ [25](https://github.com/masato-ogishi/Repitope/stargazers) · `R`
-
-- [**pyrepseq**](https://github.com/andim/pyrepseq) — Python library for immune repertoire analysis<br>[Paper](https://www.pnas.org/doi/10.1073/pnas.2213264120) · ⭐ [17](https://github.com/andim/pyrepseq/stargazers) · `Python`
 
 - [**ImRex**](https://github.com/pmoris/ImRex) — Generic TCR-epitope recognition prediction using CNN approach on both known and novel epitopes<br>⭐ [17](https://github.com/pmoris/ImRex/stargazers) · `Jupyter Notebook`
 
@@ -225,8 +225,6 @@ Here, researchers can find links to tools and resources for computational analys
 ---
 
 ## 🗃️ HLA Databases
-- [**Nomenclature of HLA Alleles**](https://hla.alleles.org/nomenclature/index.html) — A Nomenclature Committee composed of geneticists and immunologists, including specialists in tissue typing, has met after each of the Histocompatibility Workshops beginning with the Third Workshop ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26760826/) · 🪝 [2605](https://www.semanticscholar.org/paper/68a5ac30187f0350760786cee36df3b2fb3f2b11) · [Homepage](https://hla.alleles.org/nomenclature/index.html)
-
 - [**IEDB: Immune Epitope Database and Analysis Resource**](https://www.iedb.org/) — The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans, non-human primates, and other ani...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/30357391/) · 🪝 [1835](https://www.semanticscholar.org/paper/288b317e427c6bf4c94d455049bd1368ff2071eb) · [Homepage](https://www.iedb.org/)
 
 - [**Allele Frequency Net Database**](http://www.allelefrequencies.net/collaborators.asp) — AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31722398/) · 🪝 [641](https://www.semanticscholar.org/paper/3ee580308b6c1e1f3fadc00690fe871587a70885) · [Homepage](http://www.allelefrequencies.net/collaborators.asp)
@@ -234,6 +232,8 @@ Here, researchers can find links to tools and resources for computational analys
 - [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
 
 - [**pHLA3D: An online database of predicted three-dimensional structures of HLA molecules**](https://www.phla3d.com.br/) — The limited number of solved HLA structures available in the literature led our research group to develop, in 2019, the pHLA3D, an online database of predicted three-dimensional structures of HLA m...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31239187/) · 🪝 [98](https://www.semanticscholar.org/paper/810def2f2bb6693affa9a449255555ea71fdc064) · [Homepage](https://www.phla3d.com.br/)
+
+- [**Nomenclature of HLA Alleles**](https://hla.alleles.org/nomenclature/index.html) — A Nomenclature Committee composed of geneticists and immunologists, including specialists in tissue typing, has met after each of the Histocompatibility Workshops beginning with the Third Workshop ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26760826/) · 🪝 [9](https://www.semanticscholar.org/paper/68a5ac30187f0350760786cee36df3b2fb3f2b11) · [Homepage](https://hla.alleles.org/nomenclature/index.html)
 
 
 ---
@@ -293,7 +293,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Peptide Prediction
 
-- [**HLAMatchmaker**](http://www.epitopes.net) — A molecularly based algorithm for histocompatibility determination that identifies acceptable HLA antigens for highly alloimmunized patients based on amino acid triplets (eplets) on exposed parts o...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/11975978/) · 🪝 [267](https://www.semanticscholar.org/paper/7a00824f5126ab1433ac8fdcfba4dab4854ab3b2) · [Homepage](http://www.epitopes.net)
+- [**HLAMatchmaker**](https://pubmed.ncbi.nlm.nih.gov/11975978/) — A molecularly based algorithm for histocompatibility determination that identifies acceptable HLA antigens for highly alloimmunized patients based on amino acid triplets (eplets) on exposed parts o...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/11975978/) · 🪝 [267](https://www.semanticscholar.org/paper/7a00824f5126ab1433ac8fdcfba4dab4854ab3b2)
 
 - [**High-Throughput Prediction of MHC Class I and II Neoantigens with MHCnuggets**](https://github.com/KarchinLab/mhcnuggets) — MHC Class I and Class II neoantigen binding prediction<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31871119/) · 🪝 [131](https://www.semanticscholar.org/paper/33d23cc483e4b077b1f637444b10e98cb1f6bab7) · ⭐ [33](https://github.com/KarchinLab/mhcnuggets/stargazers) · `Python`
 
@@ -307,11 +307,11 @@ Here, researchers can find links to tools and resources for computational analys
 
 - [**MHCAttnNet**](https://github.com/gopuvenkat/MHCAttnNet) — MHCAttnNet: Allele-Peptide predictions for class I & class II MHC alleles<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32657386/) · 🪝 [39](https://www.semanticscholar.org/paper/64fd328e9f126c6277e2ab50f4a4b86be9bfda94) · ⭐ [30](https://github.com/gopuvenkat/MHCAttnNet/stargazers) · `Python`
 
-- [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) · `C++`
+- [**MixMHC2pred**](https://github.com/GfellerLab/MixMHC2pred) — HLA-II ligand predictor.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/38907900/) · 🪝 [4](https://www.semanticscholar.org/paper/951c39da3e761004836a22ef928c3ff7a8772542) · ⭐ [46](https://github.com/GfellerLab/MixMHC2pred/stargazers) · `C++`
 
 - [**MixMHCpred**](https://github.com/GfellerLab/MixMHCpred) — HLA-I ligand predictor<br>⭐ [43](https://github.com/GfellerLab/MixMHCpred/stargazers) · `Python`
 
-- [**EpVix: epitope reactivity analysis and epitope virtual crossmatching**](https://pubmed.ncbi.nlm.nih.gov/26531328/) — Performs automated epitope virtual crossmatching at the initiation of the organ donation process. EpViX is a free, web-based application developed for use over the internet on a tablet, smartphone ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26531328/) · 🪝 [33](https://www.semanticscholar.org/paper/f87da5d55ad244c92cacc84804775bd1e5df2fd0) · `Ruby`
+- [**EpVix: epitope reactivity analysis and epitope virtual crossmatching**](https://pubmed.ncbi.nlm.nih.gov/26531328/) — Performs automated epitope virtual crossmatching at the initiation of the organ donation process. EpViX is a free, web-based application developed for use over the internet on a tablet, smartphone ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26531328/) · 🪝 [12](https://www.semanticscholar.org/paper/f87da5d55ad244c92cacc84804775bd1e5df2fd0) · `Ruby`
 
 - [**immunogenetr**](https://github.com/k96nb01/immunogenetr_package) — immunogenetr is a comprehensive toolkit for clinical HLA informatics. It is built on tidyverse principles and makes use of genotype list string (GL string, https://glstring.org/) for storing and us...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/41344288/) · ⭐ [6](https://github.com/k96nb01/immunogenetr_package/stargazers) · [Homepage](https://glstring.org/) · `R`
 
