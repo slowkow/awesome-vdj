@@ -11,4 +11,5 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
-        args: --allow-dupe --allow-redirect /github/workspace/README.md
+        # Whitelist Semantic Scholar (returns 202 for async page loading)
+        args: --allow-dupe --allow-redirect --white-list "www.semanticscholar.org" /github/workspace/README.md
