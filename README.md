@@ -63,11 +63,11 @@ Here, researchers can find links to tools and resources for computational analys
 
 ### Sequence Repositories
 
-- [**immuneACCESS**](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>⭐ [235](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md/stargazers) · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
-
 - [**iReceptor**](https://gateway.ireceptor.org/home) — iReceptor facilitates the curation, analysis and sharing of antibody/B-cell and T-cell receptor repertoires (Adaptive Immune Receptor Repertoire or AIRR-seq data) from multiple labs and institution...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/29944754/) · 🪝 [133](https://www.semanticscholar.org/paper/5d764e3cb11d09a8f2ec8bdce3b390d6e42d3f8a) · [Homepage](https://gateway.ireceptor.org/home)
 
 - [**A Public Database of Memory and Naive B-Cell Receptor Sequences**](https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2) — We present a public database of more than 37 million unique BCR sequences from three healthy adult donors that is many fold deeper than any existing resource, together with a set of online tools de...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/27513338/) · 🪝 [104](https://www.semanticscholar.org/paper/0296d2dce034afee35366908584f9daa81ea7319) · [Homepage](https://datadryad.org/stash/dataset/doi:10.5061/dryad.35ks2)
+
+- [**immuneACCESS**](https://clients.adaptivebiotech.com/immuneaccess) — Dive into the world’s largest collection of TCR and BCR sequences. Easily incorporate millions of sequences worth of public data into your next papers and projects using immunoSEQ Analyzer. Constru...<br>[Docs](https://github.com/slowkow/awesome-vdj/blob/master/download-from-immuneaccess.md) · [Homepage](https://clients.adaptivebiotech.com/immuneaccess)
 
 - [**PIRD: Pan immune repertoire database**](https://db.cngb.org/pird/) — Pan immune repertoire database (PIRD) collects raw and processed sequences of immunoglobulins (IGs) and T cell receptors (TCRs) of human and other vertebrate species with different phenotypes. You ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31373607/) · [Homepage](https://db.cngb.org/pird/)
 
@@ -225,6 +225,8 @@ Here, researchers can find links to tools and resources for computational analys
 ---
 
 ## 🗃️ HLA Databases
+- [**Nomenclature of HLA Alleles**](https://hla.alleles.org/nomenclature/index.html) — A Nomenclature Committee composed of geneticists and immunologists, including specialists in tissue typing, has met after each of the Histocompatibility Workshops beginning with the Third Workshop ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26760826/) · 🪝 [2605](https://www.semanticscholar.org/paper/8836289f268cbbbdf879e54ff8a519f12ba80a8d) · [Homepage](https://hla.alleles.org/nomenclature/index.html)
+
 - [**IEDB: Immune Epitope Database and Analysis Resource**](https://www.iedb.org/) — The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans, non-human primates, and other ani...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/30357391/) · 🪝 [1835](https://www.semanticscholar.org/paper/288b317e427c6bf4c94d455049bd1368ff2071eb) · [Homepage](https://www.iedb.org/)
 
 - [**Allele Frequency Net Database**](http://www.allelefrequencies.net/collaborators.asp) — AFND is a public resource that collects information on allele, genotype and haplotype frequencies from different polymorphic areas in the human genome such as human leukocyte antigens (HLA), killer...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31722398/) · 🪝 [641](https://www.semanticscholar.org/paper/3ee580308b6c1e1f3fadc00690fe871587a70885) · [Homepage](http://www.allelefrequencies.net/collaborators.asp)
@@ -232,8 +234,6 @@ Here, researchers can find links to tools and resources for computational analys
 - [**IMGTHLA**](https://github.com/ANHIG/IMGTHLA) — The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committe...<br>⭐ [246](https://github.com/ANHIG/IMGTHLA/stargazers) · [Homepage](https://www.ebi.ac.uk/ipd/imgt/hla/)
 
 - [**pHLA3D: An online database of predicted three-dimensional structures of HLA molecules**](https://www.phla3d.com.br/) — The limited number of solved HLA structures available in the literature led our research group to develop, in 2019, the pHLA3D, an online database of predicted three-dimensional structures of HLA m...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31239187/) · 🪝 [98](https://www.semanticscholar.org/paper/810def2f2bb6693affa9a449255555ea71fdc064) · [Homepage](https://www.phla3d.com.br/)
-
-- [**Nomenclature of HLA Alleles**](https://hla.alleles.org/nomenclature/index.html) — A Nomenclature Committee composed of geneticists and immunologists, including specialists in tissue typing, has met after each of the Histocompatibility Workshops beginning with the Third Workshop ...<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/26760826/) · 🪝 [9](https://www.semanticscholar.org/paper/68a5ac30187f0350760786cee36df3b2fb3f2b11) · [Homepage](https://hla.alleles.org/nomenclature/index.html)
 
 
 ---
@@ -301,7 +301,7 @@ Here, researchers can find links to tools and resources for computational analys
 
 - [**bigmhc**](https://github.com/KarchinLab/bigmhc) — BigMHC predicts MHC-I (neo)epitope presentation and immunogenicity<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/37829001/) · 🪝 [60](https://www.semanticscholar.org/paper/ef7763384b5f987dc546cdd9ece14b3e81b89190) · ⭐ [59](https://github.com/KarchinLab/bigmhc/stargazers) · `Jupyter Notebook`
 
-- [**HLA-EMMA**](https://hla-emma.lumc.nl) — A user-friendly tool to analyze HLA class I and class II compatibility on the amino acid level, facilitating the assessment of donor-recipient compatibility in transplantation.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32227681/) · 🪝 [82](https://www.semanticscholar.org/paper/2739806ab693e3eab964e75041527569045cb62c) · [Homepage](https://hla-emma.lumc.nl)
+- [**HLA-EMMA**](https://pubmed.ncbi.nlm.nih.gov/32227681/) — A user-friendly tool to analyze HLA class I and class II compatibility on the amino acid level, facilitating the assessment of donor-recipient compatibility in transplantation.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/32227681/) · 🪝 [82](https://www.semanticscholar.org/paper/2739806ab693e3eab964e75041527569045cb62c)
 
 - [**PIRCHE-II**](https://www.pirche.com) — An algorithm to predict indirectly recognizable HLA epitopes in solid organ transplantation, helping to evaluate immunological compatibility between donors and recipients.<br>[PubMed](https://pubmed.ncbi.nlm.nih.gov/31741009/) · 🪝 [81](https://www.semanticscholar.org/paper/75defe0480b1dbd3c64501d05370a69ea3a6b260) · [Homepage](https://www.pirche.com)
 
